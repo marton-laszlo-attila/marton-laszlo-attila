@@ -25,6 +25,8 @@ Nemzetközi kampányplatform (BSH/Bosch, Tchibo): konfigurálható kampánymotor
 | Repó | Mi ez |
 |---|---|
 | [device-registry](https://github.com/marton-laszlo-attila/device-registry) | REST API Laravel 13-mal: tesztek, CI, OpenAPI-dokumentáció, leírt tervezési döntések |
+| [thunderbird-email-translator](https://github.com/axeri-labs/thunderbird-email-translator) | Thunderbird-bővítmény: e-mailek fordítása osztott nézetben (Google Translate, MyMemory, DeepL) |
+| [thunderbird-star-highlight](https://github.com/axeri-labs/thunderbird-star-highlight) | Thunderbird-bővítmény: a csillagozott levelek színes háttért kapnak, világos és sötét témában |
 | [amoba](https://github.com/marton-laszlo-attila/amoba) | Amőba böngészőben, JavaScript- és TypeScript-változatban |
 | [urlegyfogo](https://github.com/marton-laszlo-attila/urlegyfogo) | Lövöldözős játék JavaScriptben, hanggal és zenével |
 | [snowflake-p5](https://github.com/marton-laszlo-attila/snowflake-p5) | Generatív hópehely p5.js-sel |
