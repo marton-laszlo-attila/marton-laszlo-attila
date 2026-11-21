@@ -2,7 +2,7 @@
 
 **Full stack fejlesztő · Dunakeszi**
 
-PHP/Laravel, Vue.js, React és PostgreSQL – a tervezéstől az üzemeltetésig. Egyedül vittem ötlettől élesig egy multi-tenant SaaS platformot, előtte csapatban dolgoztam egy 22 mikroszolgáltatásos vállalati rendszeren. Belsőépítész-tervezői háttérrel jöttem, 2021 óta főállásban fejlesztek.
+PHP/Laravel, Vue.js, React és PostgreSQL – a tervezéstől az üzemeltetésig. 2001 óta készítek honlapokat és webes rendszereket, 2022 óta fejlesztőcsapatokban dolgozom. Két és fél évig egy 22 mikroszolgáltatásos vállalati rendszeren dolgoztam, mellette egyedül vittem ötlettől élesig egy multi-tenant SaaS platformot. Belsőépítész-tervezői háttérrel jöttem a szoftverfejlesztésbe.
 
 > Belsőépítészként tereket és lámpákat terveztem, ma szoftverrendszereket. A lényeg ugyanaz: adott korlátok között olyan szerkezetet találni, ami használható, arányos, és öt év múlva is kitart.
 
