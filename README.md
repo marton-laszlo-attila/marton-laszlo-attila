@@ -42,7 +42,7 @@ Nemzetközi kampányplatform (BSH/Bosch, Tchibo): konfigurálható kampánymotor
 
 ## Háttér
 
-Hét-fő Bt., társtulajdonos (1993–2007): belsőépítészet, 2001-től honlapkészítés is. Magyar Iparművészeti Főiskola, belsőépítész (1989–1995) · Makovecz Vándoriskola (1996–1999) · Codecool, full stack fejlesztő (2020–2021). A 2014-es Velencei Építészeti Biennálé magyar pavilonjának kurátora. Kódot 1993 óta írok: AutoLISP, majd GDL/Archicad (GDL Toolbox verseny, I. hely, 2002).
+Hét-fő Bt., társtulajdonos (1993–2007): belsőépítészet, 2001-től honlapkészítés is. Magyar Iparművészeti Főiskola, belsőépítész (1989–1995) · Makovecz Vándoriskola (1996–1999) · Codecool, frontend és full stack fejlesztő (2019–2020). A 2014-es Velencei Építészeti Biennálé magyar pavilonjának kurátora. Kódot 1993 óta írok: AutoLISP, majd GDL/Archicad (GDL Toolbox verseny, I. hely, 2002).
 
 ## Elérhetőség
 
